@@ -9,7 +9,7 @@ tiles:
     title: '𝐈𝐏 𝐆𝐄𝐎𝐋𝐎𝐂𝐀𝐓𝐈𝐎𝐍'
     content: '刷新中...'
     icon: 'globe.asia.australia.fill'
-    backgroundColor: '#0C9DFA'
+    backgroundColor: '#000000'
 
 script-providers:
   ip-geolocation:
